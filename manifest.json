@@ -9,10 +9,10 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "bjAZufogMiGEyfoYe9mbZQ=="
+          "hash": "eTbhGBWXdjpHKRJLge8acQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -21,10 +21,10 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.App.html",
-          "hash": "bboiYDwERorMtLvkAN3G1A=="
+          "hash": "cvLGg2gcONdXMe3nlptiHQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -33,34 +33,34 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.BaseViewModel.html",
-          "hash": "62RzZ71CctAHyJcynstIxA=="
+          "hash": "4Tseg58vwzyn8a99b4UvGQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/NoteIdea.MINMAXINFO.yml",
+      "source_relative_path": "api/NoteIdea.EmptyListControl.yml",
       "output": {
         ".html": {
-          "relative_path": "api/NoteIdea.MINMAXINFO.html",
-          "hash": "H07cBbX+SUpyjDYM2fCmeQ=="
+          "relative_path": "api/NoteIdea.EmptyListControl.html",
+          "hash": "VRTMQXdHB2bw7CutTqRETw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/NoteIdea.MONITORINFO.yml",
+      "source_relative_path": "api/NoteIdea.Main.yml",
       "output": {
         ".html": {
-          "relative_path": "api/NoteIdea.MONITORINFO.html",
-          "hash": "27WVxBEL+12pJJNYztR69g=="
+          "relative_path": "api/NoteIdea.Main.html",
+          "hash": "PWwjoQ6aXkM7OetWJQa1Xg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -69,10 +69,10 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.MainMenuControl.html",
-          "hash": "2IXBDRXC7IgHt5lOW8lwmg=="
+          "hash": "Wtmkp1kgiyVpA+NjTPkdSA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -81,46 +81,22 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.MainWindow.html",
-          "hash": "sKwhvYNLMngVBPS/86oA7g=="
+          "hash": "AaRISmsTEmJuyyho+OQjMQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/NoteIdea.NoteStatus.yml",
+      "source_relative_path": "api/NoteIdea.NotesModel.yml",
       "output": {
         ".html": {
-          "relative_path": "api/NoteIdea.NoteStatus.html",
-          "hash": "hC6do2OSaErJPdrQiqwUMQ=="
+          "relative_path": "api/NoteIdea.NotesModel.html",
+          "hash": "ZeFWLyVSrvna1bJCaJ3vDA=="
         }
       },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/NoteIdea.POINT.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/NoteIdea.POINT.html",
-          "hash": "y4zidt5OzswRZL6idKXLwg=="
-        }
-      },
-      "is_incremental": true,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/NoteIdea.Rectangle.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/NoteIdea.Rectangle.html",
-          "hash": "0BrmGPGBYUb0oPtn5dW6lw=="
-        }
-      },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -129,10 +105,10 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.RelayCommand.html",
-          "hash": "Xwk+56RHorhKXlD6evTMjw=="
+          "hash": "ZSlVB+gJlAa/bwtFXeJuVA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -141,10 +117,10 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.SerachBarControl.html",
-          "hash": "yi8hIsWk4xDTErSHB4lYDQ=="
+          "hash": "65nMBpTWhGorGbadp7egFw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -153,10 +129,10 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.ShortNoteListDesignModel.html",
-          "hash": "ANvPFkaLOcv18wjUGcwGhQ=="
+          "hash": "u/hXpsCffZeNw5DaHD0zXw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -165,10 +141,10 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.ShortNoteListItemControl.html",
-          "hash": "N4OY7RHaLKgKqD+vwgNJ9A=="
+          "hash": "HZ84hKgEQ6mFvVKGoWszlg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -177,10 +153,10 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.ShortNoteListItemDesignModel.html",
-          "hash": "+ouIp7LOfBISmlDYdbA/PA=="
+          "hash": "gvej0VO5trFMZ3hZoi+BiQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -189,10 +165,10 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.ShortNoteListItemViewModel.html",
-          "hash": "OuNssDnReEcxCaI1Dj6Puw=="
+          "hash": "lAK8PtGYqr1E10u3nnWIpg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -201,10 +177,10 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.ShortNoteListViewModel.html",
-          "hash": "zl3dPnoQRpRZQ0q6jUFsfQ=="
+          "hash": "gSK4WxwESGvtYRxUHvXmQA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -213,10 +189,10 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.ShortNotesListConrol.html",
-          "hash": "CJU+513YZdLvhKguyCdSXQ=="
+          "hash": "rvDg+dOw36b8DFqG55f8+Q=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -225,34 +201,34 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.TextEditorControl.html",
-          "hash": "juedlAZxD+xHXR+uoj6iMQ=="
+          "hash": "IgarqRSQgvd8E06D/ggdSw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/NoteIdea.WindowDockPosition.yml",
+      "source_relative_path": "api/NoteIdea.TextEditorDisableControl.yml",
       "output": {
         ".html": {
-          "relative_path": "api/NoteIdea.WindowDockPosition.html",
-          "hash": "OWpqq0x/liLx+YwP8XNdYw=="
+          "relative_path": "api/NoteIdea.TextEditorDisableControl.html",
+          "hash": "gYnCx3vt+S/cBTSW16FniA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/NoteIdea.WindowResizer.yml",
+      "source_relative_path": "api/NoteIdea.TextEditorInDeletedListControl.yml",
       "output": {
         ".html": {
-          "relative_path": "api/NoteIdea.WindowResizer.html",
-          "hash": "Ok8KjewtfEpFaZsvYJMXUQ=="
+          "relative_path": "api/NoteIdea.TextEditorInDeletedListControl.html",
+          "hash": "J8Z1PNvdKxqyDJaGfjqEMw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -261,10 +237,10 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.WindowViewModel.html",
-          "hash": "pQsIOvoQfJ0jACEPMqBbjA=="
+          "hash": "woF1fGzKnBMOSwEWMYXOgw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -273,10 +249,10 @@
       "output": {
         ".html": {
           "relative_path": "api/NoteIdea.html",
-          "hash": "MtlK/irEdVNojp+X44sBhA=="
+          "hash": "xpemqTyWHVCs80fJ1fCDQw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -285,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "vE6oMyUdo/lQig3xd1ofDg=="
+          "hash": "ymDdsCl1qLQcQXJpUUqhaw=="
         }
       },
       "is_incremental": false,
@@ -297,7 +273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "z4SvSscfvNt1x5PmILgzhA=="
+          "hash": "fvVa5f8nfvTOmoGPKIcC9g=="
         }
       },
       "is_incremental": false,
@@ -309,10 +285,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "F6H8w/r6FObiojATpJJPVQ=="
+          "hash": "xwiFUWCqep8oqXc4cwVauw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -321,10 +297,10 @@
       "output": {
         ".html": {
           "relative_path": "project/intro.html",
-          "hash": "4MkeZuck4RtouUSjEQPc7g=="
+          "hash": "C3TNU3y+W5Em5NobtH5aCg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -355,7 +331,8 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
         "incrementalPhase": "build"
       },
       "processors": {
@@ -365,19 +342,19 @@
           "incrementalPhase": "build"
         },
         "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build"
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build"
         }
       }
     },
     {
       "status": {
-        "can_incremental": true,
-        "details": "Can support incremental post processing.",
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
         "incrementalPhase": "postProcessing"
       },
       "processors": {}
